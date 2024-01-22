@@ -1,0 +1,4 @@
+apiVersion: v2
+name: argo-cd-sample
+description: A Helm chart for argocd
+version: 0.1.0
