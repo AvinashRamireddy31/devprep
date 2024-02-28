@@ -1,0 +1,8 @@
+---
+# Source: infra-dev/charts/infra-base/templates/deployment.yaml
+spec:
+  template:
+    slack:
+      environment: 'DEVELOPERS'
+      name: Testing
+      title: This is a big title

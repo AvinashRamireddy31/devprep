@@ -1,0 +1,4 @@
+apiVersion: v2
+name: infra-base
+description: A Helm chart for infra-base
+version: 0.1.0

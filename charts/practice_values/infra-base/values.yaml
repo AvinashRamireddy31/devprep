@@ -1,0 +1,5 @@
+spec:
+  slack:
+    environment: "{{.Values.environment}}"
+    name: "Testing"
+    title: "This is a big title"

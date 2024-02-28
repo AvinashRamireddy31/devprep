@@ -1,0 +1,8 @@
+apiVersion: v2
+name: infra-dev
+description: A Helm chart for infra-dev
+version: 0.1.0
+dependencies:
+  - name: infra-base
+    version: 0.0.1
+    repository: file://../infra-base

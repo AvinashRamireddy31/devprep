@@ -1,0 +1,4 @@
+---
+spec:
+  template:
+{{ tpl (toYaml .Values.spec) . | indent 4}}

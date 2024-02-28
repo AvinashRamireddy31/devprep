@@ -1,0 +1,6 @@
+dependencies:
+- name: infra-base
+  repository: file://../infra-base
+  version: 0.1.0
+digest: sha256:1d01d0ce73eede058e51628aa9a9009295ede18f87c8b40d007fde47a94b1005
+generated: "2024-02-28T21:14:02.664357+05:30"
